@@ -1,0 +1,19 @@
+# Never commit media binaries
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.svg
+*.mp4
+*.mov
+*.webm
+*.mp3
+*.wav
+*.psd
+*.ai
+*.zip
+*.tar
+*.gz
+.DS_Store
+Thumbs.db
