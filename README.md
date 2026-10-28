@@ -1,7 +1,7 @@
 # llm-wiki
 
 **v0.1** · Living knowledge base for the brand · Steward: **DimSum**  
-GitHub: [riverho/FDE-llm-wiki](https://github.com/riverho/FDE-llm-wiki)  
+GitHub: [riverho/agentOS-FDE](https://github.com/riverho/agentOS-FDE) (public; older private copy: riverho/FDE-llm-wiki)  
 Box path: `/workspace/agentOS/FDE-llm-wiki` · Samba: `\\100.113.55.47\agentOS\FDE-llm-wiki`  
 (Moved from `agentOS/llm-wiki` on 2026-10-28; that path is now the internal fleet wiki.)
 

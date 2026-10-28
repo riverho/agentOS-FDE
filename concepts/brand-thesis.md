@@ -41,5 +41,5 @@ DimSum owns this thesis and keeps the llm-wiki aligned with it. Product pieces (
 
 - **KB process:** [[kb-process]] — how we keep idea links fresh.
 - **First vehicle:** [[../articles/grok-bot-guide]] — fills tooling/setup gaps so solo operators and SMBs can act.
-- **Repo:** [riverho/FDE-llm-wiki](https://github.com/riverho/FDE-llm-wiki) (markdown). Media via Samba `agentOS/media`.
+- **Repo:** [riverho/agentOS-FDE](https://github.com/riverho/agentOS-FDE) (markdown). Media via Samba `agentOS/media`.
 - **Multi-bot ops pattern:** [[job-seeking-pipeline]] — Scout (fit + CV) and Courier (Notion + Gmail) with River’s approval gates.
