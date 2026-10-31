@@ -43,3 +43,11 @@ DimSum owns this thesis and keeps the llm-wiki aligned with it. Product pieces (
 - **First vehicle:** [[../articles/grok-bot-guide]] — fills tooling/setup gaps so solo operators and SMBs can act.
 - **Repo:** [riverho/agentOS-FDE](https://github.com/riverho/agentOS-FDE) (markdown). Media via Samba `agentOS/media`.
 - **Multi-bot ops pattern:** [[job-seeking-pipeline]] — Scout (fit + CV) and Courier (Notion + Gmail) with River’s approval gates.
+
+## Third-party sources (not brand names)
+
+- 2026-10-31 ~15:56 HKT · DimSum · FACT · Captured articles such as [[../articles/grok-bot-guide]] are hosted on **創作邦** (creatorhome.tw) by third-party authors. That site brand is **not** River's branding. River branding messages for **AI 前線部署** / **FDE llm wiki** live in the internal wiki `llm-wiki/branding/` (stubs OPEN). See internal learning `branding-vs-third-party-sources.md`.
+
+## Order routing (wiki home)
+
+- 2026-10-31 ~16:10 HKT · DimSum · DECISION · River: keyword **FDE** / **AI 前線部署** → this wiki; **AgentOS** → private llm-wiki. Future `ideas/` + `workshop/<workstream>/` here (kebab-case; not created yet). See [[order-wiki-routing]].

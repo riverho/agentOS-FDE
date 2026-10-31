@@ -28,3 +28,10 @@ Every article/concept page should keep a `## Connections` section tying it to th
 ## Steward
 
 DimSum maintains this KB. Version bumps are recorded in `VERSION.md`.
+
+## Order routing vs AgentOS (2026-10-31 ~16:10 HKT)
+
+- Keyword **FDE** / **AI 前線部署** → this repo. Keyword **AgentOS** → private `llm-wiki` only. Never mix.
+- Planned (not created yet): top-level `ideas/` and `workshop/<workstream>/` with **English kebab-case** workstream slugs.
+- AgentOS owns `projects/`, `fleet/`, `branding/`, `sources/` — do not recreate those trees here for fleet memory.
+- Canon: [concepts/order-wiki-routing.md](concepts/order-wiki-routing.md).

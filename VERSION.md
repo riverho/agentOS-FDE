@@ -1,6 +1,8 @@
 # Version
 
-**v0.1.1** — 2026-10-27 (Asia/Hong_Kong)
+**v0.1.2** — 2026-10-31 (Asia/Hong_Kong)
+
+Previous: **v0.1.1** — 2026-10-27
 
 ## What's in v0.1.1
 
@@ -10,6 +12,13 @@
 - Repo rules: markdown-first; media out of band
 
 ## Changelog
+
+### v0.1.2 — 2026-10-31 ~16:10 HKT
+
+- River DECISION: order keywords **FDE** / **AI 前線部署** → this wiki; **AgentOS** → private llm-wiki; never mix.
+- Locked: future `ideas/` + `workshop/<workstream>/` (English kebab-case) live here when approved; AgentOS keeps projects/fleet/branding/sources. Folders not created yet.
+- Added `concepts/order-wiki-routing.md`; README + REPO-RULES pointers.
+- Also recorded: third-party article brands (e.g. 創作邦) are not River branding for **AI 前線部署** / **FDE llm wiki**.
 
 ### v0.1.1 — 2026-10-27
 

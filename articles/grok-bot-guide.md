@@ -7,14 +7,16 @@ published: 2026-09-10
 updated: 2026-10-22
 ingested: 2026-10-24
 owner: DimSum
-tags: [grok-bot, guide, creatorhome, brand]
+tags: [grok-bot, guide, creatorhome, third-party-source]
 ---
 
 # Grok Bot 怎麼開始用？超完整解析與案例分享
 
-> Canon wiki copy of the published article. Prefer linking readers to the [public page](https://creatorhome.tw/articles/grok-bot-guide). Use this file for agent context, summaries, and brand-consistent reuse.
+> Canon wiki copy of the published **third-party** article (site: 創作邦 / creatorhome.tw; author: 郭政佑 Kevin). Prefer linking readers to the [public page](https://creatorhome.tw/articles/grok-bot-guide). Use this file for agent context and summaries. **Not** River branding — see sources notice and internal `llm-wiki/branding/`.
 
 作者：郭政佑 Kevin · 發布於 2026-09-10 · 內容更新 2026/10/22
+
+> **Third-party notice (2026-10-31 ~15:56 HKT):** 創作邦 / creatorhome.tw is **not** River's brand (AI 前線部署 / FDE llm wiki). Source only.
 
 ## 摘要
 
