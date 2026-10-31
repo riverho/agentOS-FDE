@@ -1,10 +1,16 @@
 # Version
 
-**v0.1.4** — 2026-10-31 ~18:35 HKT (Asia/Hong_Kong)
+**v0.1.5** — 2026-10-31 ~18:55 HKT (Asia/Hong_Kong)
 
-Previous: **v0.1.3** — 2026-10-31 ~18:15 HKT
+Previous: **v0.1.4** — 2026-10-31 ~18:35 HKT
 
 ## Changelog
+
+### v0.1.5 — 2026-10-31 ~18:55 HKT
+
+- River design (~18:53 HKT): branding + content planning; workspace folders `branding/`, `assets/`, `tone-and-voice/`; branding-pass gate then consistency; HITL (gen assets, visual design, applications approval); Notion sample short-post paired with image/video; news/research ask (optional, not mandate).
+- Created branding stubs (tone-and-voice, positioning, target-audience, brand-assets OPEN) + tone-and-voice overflow README; enhanced assets README; updated folders.md, onboarding.md, template.md (**v1.1 design** / awaiting CreateBotShareJson re-stage after skills), workstream + workshop indexes, log.
+- FDE wiki only — private agentOS/llm-wiki not touched.
 
 ### v0.1.4 — 2026-10-31 ~18:35 HKT
 

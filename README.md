@@ -1,6 +1,6 @@
 # llm-wiki
 
-**v0.1.4** · Living knowledge base for the brand · Steward: **DimSum**  
+**v0.1.5** · Living knowledge base for the brand · Steward: **DimSum**  
 GitHub: [riverho/agentOS-FDE](https://github.com/riverho/agentOS-FDE) (public; older private copy: riverho/FDE-llm-wiki)  
 Box path: `/workspace/agentOS/FDE-llm-wiki` · Samba: `\\100.113.55.47\agentOS\FDE-llm-wiki`  
 (Moved from `agentOS/llm-wiki` on 2026-10-28; that path is now the internal fleet wiki.)
@@ -34,7 +34,7 @@ Workshop business formal name: **AI 前線部署**. Biz / product: **FDE llm wik
 
 **Third-party blueprint rule:** Articles on sites such as 創作邦 / creatorhome are **sources only** — not River branding. River owns eventual shareable bot templates for **AI 前線部署**.
 
-## Ideas & workshop (v0.1.3)
+## Ideas & workshop (v0.1.5)
 
 | | Path |
 |--|------|
@@ -43,7 +43,7 @@ Workshop business formal name: **AI 前線部署**. Biz / product: **FDE llm wik
 | Workshop index | [workshop/index.md](workshop/index.md) |
 | First workstream | [workshop/grok-bot-social-media-automation/](workshop/grok-bot-social-media-automation/) |
 
-Shareable template: **Social Media Automation** v1 **staged** (CreateBotShareJson 2026-10-31 ~18:35 HKT); unpublished until River publish confirm. Worker flexible (ask owner; likely Grok Bot worker); Metricool fixed.
+Shareable template: **Social Media Automation** — wiki **v1.1 design** (branding / HITL / research-ask, 2026-10-31 ~18:53 HKT); prior v1 staged CreateBotShareJson ~18:35 HKT; DimSum re-stage pending after skills; unpublished until River publish confirm. Worker flexible; Metricool fixed; branding-pass gate; news/research ask (optional).
 
 ## Idea map (current)
 
@@ -56,7 +56,7 @@ Brand thesis (land ideas successfully)
         ├── multi-bot + routines → reduces “how do I operate alone?” gap
         ├── safe outbound / Auto-review → reduces “I dare not ship” gap
         ├── Job-seeking pipeline (Scout + Courier) → multi-bot + Notion HITL + Gmail send
-        └── Workshop: Social Media Automation bot (v1 staged) → Notion + Metricool + HITL schedule
+        └── Workshop: Social Media Automation bot (v1.1 design; v1 staged) → branding + Notion paired sample + Metricool + HITL
 ```
 
 ## Concepts
