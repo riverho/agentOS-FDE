@@ -33,7 +33,9 @@ Prefer a short `## Connections` section at the bottom of every article/concept p
 | `README.md` | Index + map |
 | `concepts/` | Brand thesis, audience, recurring ideas |
 | `articles/` | Published or draft pieces (canon copies) |
-| `sources/` | Original URLs and metadata |
+| `sources/` | Original URLs and metadata (third-party; not River brand) |
+| `ideas/` | Idea incubation (English kebab-case) |
+| `workshop/` | Workstreams: folder + bot-template blueprint |
 
 ## Steward habit
 

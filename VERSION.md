@@ -1,17 +1,18 @@
 # Version
 
-**v0.1.2** — 2026-10-31 (Asia/Hong_Kong)
+**v0.1.3** — 2026-10-31 (Asia/Hong_Kong)
 
-Previous: **v0.1.1** — 2026-10-27
-
-## What's in v0.1.1
-
-- Brand thesis + KB process (living knowledge base with idea connections)
-- First article: Grok Bot guide (canon wiki copy + source pointer)
-- Concept: job-seeking pipeline (Scout + Courier) — multi-bot outreach / writing / submissions with Notion HITL
-- Repo rules: markdown-first; media out of band
+Previous: **v0.1.2** — 2026-10-31 ~16:10 HKT
 
 ## Changelog
+
+### v0.1.3 — 2026-10-31 ~18:15 HKT
+
+- First idea + workshop workstream: `grok-bot-social-media-automation` (English kebab-case).
+- Third-party source capture: `sources/creatorhome-grok-bot-social-media-automation.md` (URL, dates, author 郭政佑 Kevin / 創作邦) — **blueprint only**; River owns eventual **AI 前線部署** template.
+- Created top-level `ideas/` and `workshop/` with indexes; workshop folder has index, template (OPEN share id), onboarding (tools → flows → folders), folders, assets README, log.
+- No CreateBotShareJson / live bot export this pass.
+- README + REPO-RULES + `concepts/order-wiki-routing.md` updated (folders now exist).
 
 ### v0.1.2 — 2026-10-31 ~16:10 HKT
 

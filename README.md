@@ -1,6 +1,6 @@
 # llm-wiki
 
-**v0.1.2** · Living knowledge base for the brand · Steward: **DimSum**  
+**v0.1.3** · Living knowledge base for the brand · Steward: **DimSum**  
 GitHub: [riverho/agentOS-FDE](https://github.com/riverho/agentOS-FDE) (public; older private copy: riverho/FDE-llm-wiki)  
 Box path: `/workspace/agentOS/FDE-llm-wiki` · Samba: `\\100.113.55.47\agentOS\FDE-llm-wiki`  
 (Moved from `agentOS/llm-wiki` on 2026-10-28; that path is now the internal fleet wiki.)
@@ -28,9 +28,22 @@ We **fill gaps in their knowledge**.
 | **FDE** or **AI 前線部署** | **This** wiki (`riverho/agentOS-FDE`) |
 | **AgentOS** | Private agent memory wiki (`/workspace/agentOS/llm-wiki`, `riverho/agentOS`) — **not** here |
 
-Never mix. Future `ideas/` and `workshop/<workstream>/` (English kebab-case workstream slugs) belong **in this FDE wiki** when River approves creating them — not under AgentOS. AgentOS keeps `projects/` · `fleet/` · `branding/` · `sources/`. Details: [concepts/order-wiki-routing.md](concepts/order-wiki-routing.md).
+Never mix. Top-level `ideas/` and `workshop/<workstream>/` (English kebab-case) live **in this FDE wiki** — not under AgentOS. AgentOS keeps `projects/` · `fleet/` · `branding/` · `sources/`. Details: [concepts/order-wiki-routing.md](concepts/order-wiki-routing.md).
 
 Workshop business formal name: **AI 前線部署**. Biz / product: **FDE llm wiki** (this repo).
+
+**Third-party blueprint rule:** Articles on sites such as 創作邦 / creatorhome are **sources only** — not River branding. River owns eventual shareable bot templates for **AI 前線部署**.
+
+## Ideas & workshop (v0.1.3)
+
+| | Path |
+|--|------|
+| Ideas index | [ideas/index.md](ideas/index.md) |
+| First idea | [ideas/grok-bot-social-media-automation/](ideas/grok-bot-social-media-automation/) |
+| Workshop index | [workshop/index.md](workshop/index.md) |
+| First workstream | [workshop/grok-bot-social-media-automation/](workshop/grok-bot-social-media-automation/) |
+
+Shareable template export: **OPEN** (scaffold + article blueprint only; no share id yet).
 
 ## Idea map (current)
 
@@ -42,7 +55,8 @@ Brand thesis (land ideas successfully)
         ├── plans & start → reduces “is it worth it / how do I begin?” gap
         ├── multi-bot + routines → reduces “how do I operate alone?” gap
         ├── safe outbound / Auto-review → reduces “I dare not ship” gap
-        └── Job-seeking pipeline (Scout + Courier) → multi-bot + Notion HITL + Gmail send
+        ├── Job-seeking pipeline (Scout + Courier) → multi-bot + Notion HITL + Gmail send
+        └── Workshop: social media automation bot (blueprint) → Notion + Metricool + HITL schedule
 ```
 
 ## Concepts
@@ -52,9 +66,10 @@ Brand thesis (land ideas successfully)
 - [Job-seeking pipeline (Scout + Courier)](concepts/job-seeking-pipeline.md)
 - [Order keyword routing — FDE vs AgentOS](concepts/order-wiki-routing.md) (River DECISION 2026-10-31 ~16:10 HKT)
 
-## Articles
+## Articles / third-party sources
 
 1. [Grok Bot 怎麼開始用？超完整解析與案例分享](articles/grok-bot-guide.md) — [public](https://creatorhome.tw/articles/grok-bot-guide)
+2. Source capture: [如何用 Grok Bot 協助自動化經營社群](sources/creatorhome-grok-bot-social-media-automation.md) — [public](https://creatorhome.tw/articles/grok-bot-social-media-automation) (blueprint for first workshop; not River brand)
 
 ## Steward rule
 

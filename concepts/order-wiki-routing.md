@@ -16,12 +16,12 @@ When River places an order, keywords choose which wiki receives the work. **Neve
 | **FDE** or **AI 前線部署** | **This** shared FDE LLM Wiki (Biz of workshop business **AI 前線部署**) | `/workspace/agentOS/FDE-llm-wiki` | `riverho/agentOS-FDE` |
 | **AgentOS** | River's private agent memory wiki | `/workspace/agentOS/llm-wiki` | `riverho/agentOS` (private) |
 
-## Structure (locked; folders not created yet)
+## Structure (locked; first folders created 2026-10-31 ~18:15 HKT)
 
-- **This repo (FDE)** will own future top-level `ideas/` and `workshop/<workstream>/` when River approves creating them.
-- **Workstream slugs:** English **kebab-case**.
+- **This repo (FDE)** owns top-level `ideas/` and `workshop/<workstream>/`.
+- **Workstream slugs:** English **kebab-case**. First: `grok-bot-social-media-automation`.
 - **AgentOS** keeps `projects/`, `fleet/`, `branding/`, `sources/` — not ideas/workshop trees.
-- Current workshop / idea work has **no separate repo** yet; all River's own. Do **not** create `ideas/` or `workshop/` until River asks to implement.
+- First workstream is scaffold + third-party article **blueprint** only; River owns the eventual shareable template for **AI 前線部署**. No live bot share export in the creating order.
 
 Internal canon (full log): AgentOS `learnings/order-wiki-routing.md`. Naming: workshop business **AI 前線部署** · Biz **FDE llm wiki**.
 
