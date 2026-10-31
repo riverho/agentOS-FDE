@@ -1,10 +1,16 @@
 # Version
 
-**v0.1.3** — 2026-10-31 (Asia/Hong_Kong)
+**v0.1.4** — 2026-10-31 ~18:35 HKT (Asia/Hong_Kong)
 
-Previous: **v0.1.2** — 2026-10-31 ~16:10 HKT
+Previous: **v0.1.3** — 2026-10-31 ~18:15 HKT
 
 ## Changelog
+
+### v0.1.4 — 2026-10-31 ~18:35 HKT
+
+- Staged unpublished public Bot template **Social Media Automation** v1 via CreateBotShareJson (`grok-bot-social-media-automation`). Awaiting River publish confirm.
+- River design notes: worker flexible (ask owner; likely Grok Bot worker); Metricool fixed; automation focus.
+- Updated workshop template.md, onboarding.md, log.md, workshop index (+ workstream index / README / idea intent for consistency). Closed OPEN for share *export* (staged).
 
 ### v0.1.3 — 2026-10-31 ~18:15 HKT
 

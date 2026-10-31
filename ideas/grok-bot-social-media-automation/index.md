@@ -15,7 +15,7 @@ tags: [idea, grok-bot, social-media, blueprint, third-party-source]
 
 ## Intent (River order 2026-10-31 ~18:14 HKT)
 
-Use the third-party article [如何用 Grok Bot 協助自動化經營社群](https://creatorhome.tw/articles/grok-bot-social-media-automation) as a **blueprint** for a Grok Bot template under **AI 前線部署**. Scaffold + blueprint only in this pass — **do not** export a real shareable template / CreateBotShareJson yet (no River bot to export for this new workstream).
+Use the third-party article [如何用 Grok Bot 協助自動化經營社群](https://creatorhome.tw/articles/grok-bot-social-media-automation) as a **blueprint** for a Grok Bot template under **AI 前線部署**. **FACT 2026-10-31 ~18:35 HKT:** DimSum staged unpublished public Bot template **Social Media Automation** (version 1) via CreateBotShareJson. Not public until River confirms the review card. Design: worker flexible (ask owner; likely Grok Bot worker); Metricool fixed; automation focus.
 
 ## Blueprint source (third-party)
 
