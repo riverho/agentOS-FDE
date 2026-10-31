@@ -9,7 +9,7 @@ updated: 2026-10-31
 Order locked by River (2026-10-31 ~15:28 HKT): **tools → flows → folders**, then work starts.  
 River design 2026-10-31 ~18:53 HKT: insert **branding workspace + branding-pass HITL gate** after tools (before volume flows); ask **news/research** preference (optional, not mandatory); light **content planning**; HITL for gen assets / visual design / applications approval; Notion sample short-post paired with image/video.
 
-Aligned with template design **v1.1** (branding / HITL / research-ask) — prior **v1** staged via CreateBotShareJson 2026-10-31 ~18:35 HKT; DimSum will **re-stage** CreateBotShareJson after skills update (awaiting re-stage). River design notes also: **ask worker choice** (likely Grok Bot worker); **Metricool fixed**.
+Aligned with staged template **Social Media Automation** **v2** (CreateBotShareJson 2026-10-31 ~18:54–18:55 HKT; branding / HITL / research-ask) — awaiting River confirm on v2 review card. Prior v1 ~18:35 HKT. River design notes also: **ask worker choice** (likely Grok Bot worker); **Metricool fixed**.
 
 Blueprint (facts only): https://creatorhome.tw/articles/grok-bot-social-media-automation
 

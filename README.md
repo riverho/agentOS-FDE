@@ -43,7 +43,7 @@ Workshop business formal name: **AI 前線部署**. Biz / product: **FDE llm wik
 | Workshop index | [workshop/index.md](workshop/index.md) |
 | First workstream | [workshop/grok-bot-social-media-automation/](workshop/grok-bot-social-media-automation/) |
 
-Shareable template: **Social Media Automation** — wiki **v1.1 design** (branding / HITL / research-ask, 2026-10-31 ~18:53 HKT); prior v1 staged CreateBotShareJson ~18:35 HKT; DimSum re-stage pending after skills; unpublished until River publish confirm. Worker flexible; Metricool fixed; branding-pass gate; news/research ask (optional).
+Shareable template: **Social Media Automation** **v2 staged** unpublished (CreateBotShareJson 2026-10-31 ~18:54–18:55 HKT; branding / HITL / research-ask); prior v1 ~18:35 HKT; awaiting River confirm on **v2** review card. Worker flexible; Metricool fixed; branding-pass gate; news/research ask (optional).
 
 ## Idea map (current)
 
@@ -56,7 +56,7 @@ Brand thesis (land ideas successfully)
         ├── multi-bot + routines → reduces “how do I operate alone?” gap
         ├── safe outbound / Auto-review → reduces “I dare not ship” gap
         ├── Job-seeking pipeline (Scout + Courier) → multi-bot + Notion HITL + Gmail send
-        └── Workshop: Social Media Automation bot (v1.1 design; v1 staged) → branding + Notion paired sample + Metricool + HITL
+        └── Workshop: Social Media Automation bot (v2 staged) → branding + Notion paired sample + Metricool + HITL
 ```
 
 ## Concepts

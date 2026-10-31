@@ -6,7 +6,7 @@ English kebab-case slugs only.
 
 | Workstream | From idea | Shareable template | Status |
 |------------|-----------|--------------------|--------|
-| [grok-bot-social-media-automation](grok-bot-social-media-automation/) | [ideas/grok-bot-social-media-automation](../ideas/grok-bot-social-media-automation/) | **Social Media Automation** — wiki **v1.1 design** (branding/HITL/research-ask); v1 staged CreateBotShareJson ~18:35 HKT; re-stage pending after skills | Design 2026-10-31 ~18:53 HKT; awaiting re-stage + River publish confirm |
+| [grok-bot-social-media-automation](grok-bot-social-media-automation/) | [ideas/grok-bot-social-media-automation](../ideas/grok-bot-social-media-automation/) | **Social Media Automation** **v2 staged** unpublished (CreateBotShareJson ~18:54–18:55 HKT; branding/HITL/research-ask); prior v1 ~18:35 HKT | Staged v2 2026-10-31; awaiting River confirm on v2 review card |
 
 **Rule:** Article blueprints (e.g. 創作邦) inform the template design. River owns the shipped template for **AI 前線部署**. Third-party article brands ≠ owner brand.
 

@@ -4,11 +4,11 @@ workstream: grok-bot-social-media-automation
 updated: 2026-10-31
 ---
 
-# Template — Social Media Automation (v1.1 design · awaiting re-stage)
+# Template — Social Media Automation (v2 staged unpublished)
 
-**Status:** **v1.1 design** in wiki (branding / HITL / research-ask). Prior **v1** was **staged** unpublished via **CreateBotShareJson** (2026-10-31 ~18:35 HKT Asia/Hong_Kong). Display name: **Social Media Automation**. Workstream: `grok-bot-social-media-automation`.
+**Status:** **v2 staged** unpublished via **CreateBotShareJson** (2026-10-31 ~18:54–18:55 HKT Asia/Hong_Kong). Display name: **Social Media Automation** · **version 2**. Design includes branding folders, HITL (gen assets / visual design / applications), optional research ask, Notion paired sample, branding-pass gate. Prior **v1** staged ~18:35 HKT. Workstream: `grok-bot-social-media-automation`.
 
-**Next:** DimSum will **re-pack / re-stage** CreateBotShareJson as the next version after skills update (v1.1 narrative). Until then: wiki design ahead of live share package. Marketplace / public link still **awaiting River publish confirm** (and re-stage).
+**Not public yet** — awaits **River** confirm on the **v2** review card (re-stage is **done**; not awaiting another CreateBotShareJson). Marketplace / public link remains **awaiting River publish confirm**.
 
 **Article is blueprint only.** River owns the shareable template for **AI 前線部署**. Third-party: 創作邦 / creatorhome (郭政佑 Kevin).
 
@@ -36,7 +36,7 @@ updated: 2026-10-31
 1. **統籌 / coordinator bot** — Receive social request; hand off to Social with: source, target platform + account, deliverable, full datetime, review boundary. Must not enqueue official publish, immediate post, or auto-replies without human confirm. If the chosen worker is unavailable, deliver a copy-pasteable task — do not claim executed.
 2. **Social bot** — Draft from Notion 靈感庫 into 短文庫; do not invent bio/stats/results; list questions when data missing; body paragraphs separated by a full-width space line (U+3000) when matching author habit; deliver body, platforms, accounts, image order, episode, datetime, article link; after human confirms a named version, hand the **chosen worker** a **schedule-only** Metricool write; return schedule read-back; after go-live, confirm public posts. Respect branding stubs and consistency after branding pass.
 
-*(Single vs dual-bot packaging still OPEN for River product choice; v1 share is one Bot template named Social Media Automation.)*
+*(Single vs dual-bot packaging still OPEN for River product choice; staged share is one Bot template named Social Media Automation, now v2.)*
 
 ### Human-in-the-loop
 
@@ -77,17 +77,17 @@ See [onboarding.md](onboarding.md) — AI-guided checklist: **tools → branding
 - Claiming third-party site branding as **AI 前線部署** / owner brand
 - Volume posting before branding pass
 - Mandating research when owner declined (still must **ask**)
-- Going public before River confirm on the review card / before re-stage of v1.1
+- Going public before River confirm on the **v2** review card
 
 ## Fields (River)
 
 | Field | Status |
 |-------|--------|
-| CreateBotShareJson / staged v1 **Social Media Automation** | **Done** (2026-10-31 ~18:35 HKT) — unpublished until River confirm |
-| Re-stage CreateBotShareJson for **v1.1** (branding/HITL/research-ask + skills) | **Awaiting** — DimSum re-packing after skills update |
-| Public / marketplace link | Awaiting River publish confirm (post re-stage) |
+| CreateBotShareJson / staged v1 **Social Media Automation** | **Done** (2026-10-31 ~18:35 HKT) — superseded by v2 stage for review |
+| CreateBotShareJson / staged **v2** (branding/HITL/research-ask + skills) | **Done** (2026-10-31 ~18:54–18:55 HKT) — unpublished until River confirm on **v2** review card |
+| Public / marketplace link | Awaiting River publish confirm on v2 |
 | Single vs dual-bot share packaging | OPEN |
-| Final River-owned role prompts (vs article examples) | OPEN (v1 staged; refine in v1.1 re-stage) |
+| Final River-owned role prompts (vs article examples) | OPEN (v2 staged; refine as needed) |
 | Worker choice (Grok Bot worker likely) | **Design locked** — ask owner; keep flexible |
 | Scheduler | **Design locked** — Metricool only |
 | Branding workspace + pass gate | **Design locked** (2026-10-31 ~18:53 HKT) — stubs OPEN for owner fill |

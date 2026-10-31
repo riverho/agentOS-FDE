@@ -3,12 +3,12 @@ title: Workshop — Grok Bot social media automation
 slug: grok-bot-social-media-automation
 created: 2026-10-31
 owner: DimSum
-tags: [workshop, workstream, grok-bot, social-media, blueprint, branding, hitl, v1.1-design]
+tags: [workshop, workstream, grok-bot, social-media, blueprint, branding, hitl, v2-staged]
 ---
 
 # Workshop: grok-bot-social-media-automation
 
-**Purpose:** First **AI 前線部署** workstream — River-owned shareable Grok Bot template **Social Media Automation**. Wiki design **v1.1** (branding / HITL / research-ask, 2026-10-31 ~18:53 HKT). Prior **v1** staged via CreateBotShareJson ~18:35 HKT; DimSum **re-staging** next version after skills update; unpublished until River publish confirm.
+**Purpose:** First **AI 前線部署** workstream — River-owned shareable Grok Bot template **Social Media Automation** **v2 staged** unpublished (CreateBotShareJson 2026-10-31 ~18:54–18:55 HKT; branding / HITL / research-ask). Prior **v1** ~18:35 HKT. Awaiting River confirm on **v2** review card (re-stage done).
 
 **From idea:** [../../ideas/grok-bot-social-media-automation/](../../ideas/grok-bot-social-media-automation/)  
 **Blueprint source (third-party only):** [../../sources/creatorhome-grok-bot-social-media-automation.md](../../sources/creatorhome-grok-bot-social-media-automation.md) · https://creatorhome.tw/articles/grok-bot-social-media-automation  
@@ -19,7 +19,7 @@ tags: [workshop, workstream, grok-bot, social-media, blueprint, branding, hitl, 
 | Piece | Path / status |
 |-------|----------------|
 | Folder | This directory |
-| Shareable bot template | See [template.md](template.md) — **v1.1 design**; v1 staged; awaiting re-stage + River publish confirm |
+| Shareable bot template | See [template.md](template.md) — **v2 staged** unpublished; awaiting River confirm on v2 review card |
 | Onboarding checklist | [onboarding.md](onboarding.md) — tools → branding gate / research ask → flows → folders |
 | Folder layout notes | [folders.md](folders.md) |
 | Branding | [branding/](branding/) (stubs OPEN; pass gate before volume) |

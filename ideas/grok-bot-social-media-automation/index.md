@@ -15,7 +15,7 @@ tags: [idea, grok-bot, social-media, blueprint, third-party-source]
 
 ## Intent (River order 2026-10-31 ~18:14 HKT)
 
-Use the third-party article [如何用 Grok Bot 協助自動化經營社群](https://creatorhome.tw/articles/grok-bot-social-media-automation) as a **blueprint** for a Grok Bot template under **AI 前線部署**. **FACT 2026-10-31 ~18:35 HKT:** DimSum staged unpublished public Bot template **Social Media Automation** (version 1) via CreateBotShareJson. **FACT ~18:53 HKT:** River added branding + content planning, HITL (gen assets / visual / applications), Notion paired sample, branding-pass gate, research ask-not-mandate — wiki **v1.1 design**; re-stage CreateBotShareJson pending after skills. Not public until River confirms. Design: worker flexible; Metricool fixed; branding before volume.
+Use the third-party article [如何用 Grok Bot 協助自動化經營社群](https://creatorhome.tw/articles/grok-bot-social-media-automation) as a **blueprint** for a Grok Bot template under **AI 前線部署**. **FACT 2026-10-31 ~18:35 HKT:** DimSum staged unpublished public Bot template **Social Media Automation** (version 1) via CreateBotShareJson. **FACT ~18:53 HKT:** River added branding + content planning, HITL (gen assets / visual / applications), Notion paired sample, branding-pass gate, research ask-not-mandate. **FACT ~18:54–18:55 HKT:** DimSum re-staged **version 2** (unpublished); awaiting River confirm on **v2** review card (re-stage done). Design: worker flexible; Metricool fixed; branding before volume.
 
 ## Blueprint source (third-party)
 

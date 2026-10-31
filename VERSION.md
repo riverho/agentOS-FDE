@@ -9,7 +9,8 @@ Previous: **v0.1.4** — 2026-10-31 ~18:35 HKT
 ### v0.1.5 — 2026-10-31 ~18:55 HKT
 
 - River design (~18:53 HKT): branding + content planning; workspace folders `branding/`, `assets/`, `tone-and-voice/`; branding-pass gate then consistency; HITL (gen assets, visual design, applications approval); Notion sample short-post paired with image/video; news/research ask (optional, not mandate).
-- Created branding stubs (tone-and-voice, positioning, target-audience, brand-assets OPEN) + tone-and-voice overflow README; enhanced assets README; updated folders.md, onboarding.md, template.md (**v1.1 design** / awaiting CreateBotShareJson re-stage after skills), workstream + workshop indexes, log.
+- Created branding stubs (tone-and-voice, positioning, target-audience, brand-assets OPEN) + tone-and-voice overflow README; enhanced assets README; updated folders.md, onboarding.md, template.md, workstream + workshop indexes, log.
+- **Follow-up same evening:** DimSum re-staged CreateBotShareJson **Social Media Automation version 2** (~18:54–18:55 HKT) unpublished; wiki status updated to **v2 staged** (awaiting River v2 review confirm — not awaiting re-stage). VERSION stays **v0.1.5**.
 - FDE wiki only — private agentOS/llm-wiki not touched.
 
 ### v0.1.4 — 2026-10-31 ~18:35 HKT
